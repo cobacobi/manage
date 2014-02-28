@@ -1,0 +1,14 @@
+{
+  "require": {
+    "kohana/core": "v3.3.1",
+    "kohana/cache": "v3.3.1",
+    "kohana/userguide": "v3.3.1",
+    "kohana/codebench": "v3.3.1",
+    "kohana/unittest": "v3.3.1",
+    "kohana/minion": "v3.3.1",
+    "kohana/database": "v3.3.1",
+    "kohana/orm": "v3.3.1",
+    "kohana/auth": "v3.3.1",
+    "kohana/image": "v3.3.1"
+  }
+}
