@@ -1,5 +1,16 @@
 .DS_Store
 application/cache/*
-!application/cache/.gitkeep
+application/classes/*
+application/config/*
+application/i18n/*
 application/logs/*
+application/messages/*
+application/views/*
+
+!application/cache/.gitkeep
+!application/classes/.gitkeep
+!application/config/.gitkeep
+!application/i18n/.gitkeep
 !application/logs/.gitkeep
+!application/messages/.gitkeep
+!application/views/.gitkeep
